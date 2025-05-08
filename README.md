@@ -29,9 +29,14 @@ The project requires the following dependencies:
   - `torch` (for deep learning models)
 - Pre-trained deep learning model: VGG19 (used for template matching)
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+## Citations
+```bash
+@ARTICLE{Li2024-pa,
+  title    = "Urban visual localization of block-wise monocular images with
+              Google street views",
+  author   = "Li, Zhixin and Li, Shuang and Anderson, John and Shan, Jie",
+  journal  = "Remote Sens",
+  month    =  feb,
+  year     =  2024
+}
+```
