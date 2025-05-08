@@ -16,8 +16,9 @@ This repository contains Python scripts for processing Google Street View (GSV) 
 
 ## Datasets
 
-The query images are open access at:
-The GSVs are downloaded through https://svd360.com/
+- The query images are open access at: https://purdue0-my.sharepoint.com/:f:/g/personal/li2887_purdue_edu/EkLHe2mqs_lAg-MU0tomjLYBsyFnp-fWCAH_kQxupgiE5g?e=kQU50E
+
+- The GSVs are downloaded through https://svd360.com/
 
 ## Requirements
 
