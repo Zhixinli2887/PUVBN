@@ -10,6 +10,15 @@ This repository contains Python scripts for processing Google Street View (GSV) 
 - **Geospatial Transformations**: Converts coordinates between different spatial reference systems.
 - **Integration with Metashape**: Uses Metashape for 3D reconstruction and camera alignment.
 
+## Features
+
+![workflow](https://github.com/user-attachments/assets/a6090841-6077-4c64-994a-c4518508bbd5)
+
+## Datasets
+
+The query images are open access at:
+The GSVs are downloaded through https://svd360.com/
+
 ## Requirements
 
 The project requires the following dependencies:
