@@ -2,6 +2,11 @@
 
 This repository contains Python scripts for processing Google Street View (GSV) images, performing template matching, and conducting bundle adjustment (BA) for geospatial analysis. The project leverages various libraries and tools for image processing, geospatial transformations, and 3D reconstruction.
 
+## News
+
+Congratulations on our recently published paper "Deep-feature-based visual localization with Google Street View" in SPIE.
+https://doi.org/10.1117/12.3055220
+
 ## Features
 
 - **GSV Image Processing**: Extracts metadata and processes GSV images for geospatial analysis.
@@ -48,5 +53,16 @@ The project requires the following dependencies:
   journal  = "Remote Sens",
   month    =  feb,
   year     =  2024
+}
+@INPROCEEDINGS{Li2025-ee,
+  title     = "Deep-feature-based visual localization with Google street view",
+  author    = "Li, Zhixin and Anderson, John and Shan, Jie",
+  editor    = "Palaniappan, Kannappan and Seetharaman, Gunasekaran and Irvine,
+               John M",
+  booktitle = "Geospatial Informatics XV",
+  publisher = "SPIE",
+  pages     =  17,
+  month     =  may,
+  year      =  2025
 }
 ```
